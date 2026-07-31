@@ -5,7 +5,7 @@
 %global crate gdk
 
 Name:           rust-%{crate}
-Version:        0.12.1
+Version:        0.18.2
 Release:        1%{?dist}
 Summary:        Rust bindings for the GDK 3 library
 
